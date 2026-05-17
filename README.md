@@ -5,7 +5,11 @@ A quick shutdown utility. Useful for installing games overnight, rendering proje
 How to use:
 
 Windows, Linux, and MacOS:
+
+
 Requirements:
+
+
 An updated Python
 
 Step 1: Download the program.
