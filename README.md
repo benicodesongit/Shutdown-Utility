@@ -12,6 +12,8 @@ Requirements:
 
 An updated Python
 
+
+
 Step 1: Download the program.
 ```
 cd "Location of install"
