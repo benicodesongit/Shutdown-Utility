@@ -18,7 +18,7 @@ Step 1: Download the program.
 ```
 cd "Location of install"
 ```
-Step 4: type
+Step 2: type
 ```
 python ShutdownUtil.py
 ```
