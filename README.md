@@ -14,7 +14,7 @@ An updated Python
 
 
 
-Step 1: Download the program.
+Step 1: Download the program. Then, type
 ```
 cd "Location of install"
 ```
